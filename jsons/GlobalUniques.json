@@ -3,6 +3,6 @@
     "uniques": [
         "[50] [Warrior]s rebel <upon turn end>",
         "Turn this tile into a [Coast] tile <for [Barbarians] units> <in [Land] tiles> <in tiles adjacent to [Coast] tiles> <upon turn start>",
-        "[This Unit] is destroyed <for [Barbarians] units> <upon turn start>"
+        "[This Unit] is destroyed <upon turn start> <for [Barbarians] units>"
     ]
 }
