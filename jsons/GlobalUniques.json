@@ -1,1 +1,6 @@
-
+{
+    "name": "Global Uniques",
+    "uniques": [
+      "Turn this tile into a [Coast] tile <in [Land] tiles> <in tiles adjacent to [Coast] tiles> <upon turn start>"
+    ]
+}
