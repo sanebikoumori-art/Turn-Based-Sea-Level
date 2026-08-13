@@ -8,7 +8,7 @@
 		"movementCost": 1,
 		"RGB": [43, 87, 151],
         "uniques":[
-            "Turn this tile into a [Coast] tile <in tiles adjacent to [Land] tiles> <upon turn start>"
+            "Turn this tile into a [Coast] tile <upon turn start>"
         ]
 	},
 	{
